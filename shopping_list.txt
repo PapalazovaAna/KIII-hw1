@@ -2,3 +2,4 @@ bread
 milk
 yogurt
 orange juice
+candy
